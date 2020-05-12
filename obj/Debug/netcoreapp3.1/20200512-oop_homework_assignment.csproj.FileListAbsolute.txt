@@ -1,0 +1,12 @@
+/Users/vlad/Documents/gitHub/20200512-oop_homework_assignment/bin/Debug/netcoreapp3.1/20200512-oop_homework_assignment.deps.json
+/Users/vlad/Documents/gitHub/20200512-oop_homework_assignment/bin/Debug/netcoreapp3.1/20200512-oop_homework_assignment.runtimeconfig.json
+/Users/vlad/Documents/gitHub/20200512-oop_homework_assignment/bin/Debug/netcoreapp3.1/20200512-oop_homework_assignment.runtimeconfig.dev.json
+/Users/vlad/Documents/gitHub/20200512-oop_homework_assignment/bin/Debug/netcoreapp3.1/20200512-oop_homework_assignment.dll
+/Users/vlad/Documents/gitHub/20200512-oop_homework_assignment/bin/Debug/netcoreapp3.1/20200512-oop_homework_assignment.pdb
+/Users/vlad/Documents/gitHub/20200512-oop_homework_assignment/obj/Debug/netcoreapp3.1/20200512-oop_homework_assignment.csprojAssemblyReference.cache
+/Users/vlad/Documents/gitHub/20200512-oop_homework_assignment/obj/Debug/netcoreapp3.1/20200512-oop_homework_assignment.csproj.CoreCompileInputs.cache
+/Users/vlad/Documents/gitHub/20200512-oop_homework_assignment/obj/Debug/netcoreapp3.1/20200512-oop_homework_assignment.AssemblyInfoInputs.cache
+/Users/vlad/Documents/gitHub/20200512-oop_homework_assignment/obj/Debug/netcoreapp3.1/20200512-oop_homework_assignment.AssemblyInfo.cs
+/Users/vlad/Documents/gitHub/20200512-oop_homework_assignment/obj/Debug/netcoreapp3.1/20200512-oop_homework_assignment.dll
+/Users/vlad/Documents/gitHub/20200512-oop_homework_assignment/obj/Debug/netcoreapp3.1/20200512-oop_homework_assignment.pdb
+/Users/vlad/Documents/gitHub/20200512-oop_homework_assignment/obj/Debug/netcoreapp3.1/20200512-oop_homework_assignment.genruntimeconfig.cache
