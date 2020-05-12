@@ -36,10 +36,22 @@ namespace oop_homework_assignment
                 Year = value;
             }
         }
+        public virtual void polymorphism_test()
+        {
+            Console.WriteLine("Primary Object");
+        }
     }
     class Painting_Inheritance : Painting
     {
         public string Painting_InheritanceTest = "louvre";
+    }
+
+    class MyPolymorphism_test : Painting
+    {
+        public override void polymorphism_test()
+        {
+            Console.WriteLine("Polymorphed test");
+        }
     }
 
     class Program{ 
@@ -50,6 +62,7 @@ namespace oop_homework_assignment
             myPainting.Medium = "canvas";
             myPainting.Year = 1960;
             Painting_Inheritance newPainting_Inheritance = new Painting_Inheritance();
+            Painting MyPolyTest = new MyPolymorphism_test();
 
             Console.WriteLine("Paintingname: " + myPainting.MyPaintingname);
             Console.WriteLine("P: " + myPainting.Name);
@@ -58,6 +71,7 @@ namespace oop_homework_assignment
             Console.WriteLine("Y: " + myPainting.Year);
             Console.WriteLine("M: " + newPainting_Inheritance.Name);
             Console.WriteLine("M: " + newPainting_Inheritance.Painting_InheritanceTest);
+            MyPolyTest.polymorphism_test();
         }
     }
 }
